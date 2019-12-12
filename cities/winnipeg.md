@@ -14,8 +14,9 @@ location:
     url: https://tonyromas.com/location/pembina/
     lon: -97.149884
     lat: 49.835410
-hiatus: False
+hiatus: True
 hiatus_months:
     - 2019-07
     - 2019-08
+    - 2019-12
 ---
